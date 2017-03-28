@@ -13,5 +13,10 @@
         "phpunit/phpunit": "4.*",
         "phpdocumentor/phpdocumentor": "2.*",
         "squizlabs/php_codesniffer": "1.*"
+    },
+    "scripts": {
+        "test": [
+            "phpunit"
+        ]
     }
 }
